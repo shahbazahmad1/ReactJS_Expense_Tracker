@@ -10,7 +10,10 @@ Installs the required dependencies
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-https://github.com/shahbazahmad1/Shahbaz_ReactJS_Lab/assets/48079401/ca190a47-e963-417d-a8dd-9be503ec50cc
+https://github.com/shahbazahmad1/Shahbaz_ReactJS_Lab/assets/48079401/f6c1fe71-ac74-46ad-9e80-2b94da5e1e7e
+
+
+
 
 
 
