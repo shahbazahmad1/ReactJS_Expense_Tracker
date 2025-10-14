@@ -1,5 +1,4 @@
-# Shahbaz_ReactJS_Lab
-React JS Lab
+# Expense Tracker
 
 ### `npm install`
 
